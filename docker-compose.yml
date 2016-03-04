@@ -1,0 +1,6 @@
+web:
+  image: danielstockton/aaas
+  ports:
+    - "3000:3000"
+  volumes:
+    - ./config/:/config

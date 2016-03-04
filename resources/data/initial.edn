@@ -1,0 +1,3 @@
+[{:db/id         #db/id[:db.part/user]
+  :user/email    "demo@aaas.com"
+  :user/password "bcrypt+sha512$b5cd356143194297186fe42214bae91a$12$06ac43b5f94b3db51a59adfe7f26060a62e7e22f97098632"}]
